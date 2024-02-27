@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# ERC-404 NFT Marketplace
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+The ERC-404 token has been the talk of the town lately, which means now is the perfect time to explore it at length. This course has been designed keeping in mind the ERC-404 token standard. First, it will give you an overview of building an NFT marketplace using the DN404 standard. Then, you will build your token using DN404. Thirdly, you will build the marketplace and use it to buy or sell your share of tokens. Lastly, you will prepare the front-end which will allow you to interact with the NFT marketplace contract.
 
 Run the following command to install the dependencies:
 
