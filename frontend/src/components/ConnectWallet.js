@@ -16,8 +16,8 @@ function ConnectWallet({ children }) {
   const [account, setAccount] = useState(null);
   const [marketplaceContract, setMarketplaceContract] = useState(null);
 
-  const marketplaceAddress = "YOUR_MARKETPLACE_ADDRESS";
-  const nftContractAddress = "YOUR_NFT_CONTRACT_ADDRESS";
+  const marketplaceAddress = "0x7641A81F4a20cC54391543BdbF6e16c98DA98f5d";
+  const nftContractAddress = "0xD01cb8ec999d8911F801305cb8721fc4Dce394eE";
 
   useEffect(() => {
     if (window.ethereum) {
